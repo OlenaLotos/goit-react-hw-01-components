@@ -1,0 +1,16 @@
+.avatar {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgb(142, 199, 227);
+    background-color: #fff;
+    
+}
+
+.profile {
+    width: 300px;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(243, 249, 252);
+    border-radius: 5px;
+}
